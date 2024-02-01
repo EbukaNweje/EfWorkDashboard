@@ -498,7 +498,7 @@ const Dashboard = () => {
                             ) : null}
                         </div>
                         <div className="DashboardMainFooter">
-                            <p>All Rights Reserved ©  Premium-Crypt.org 2023</p>
+                            <p>All Rights Reserved ©  Premium-Crypt.org 2024</p>
                         </div>
                     </div>
                 </div>
